@@ -1,11 +1,11 @@
 {
     "schemaVersion":  "cineflow.channel.v1",
     "channel":  "beta",
-    "version":  "1.0.0",
-    "commitSha":  "486540da070e30cb1b3210792155c3c8f1b7540f",
-    "publishedAt":  "2026-08-20T05:49:18.1389130Z",
-    "packageUrl":  "https://github.com/3137luluon-jpg/cineflow-lite-releases/releases/download/v1.0.0/CineFlow-App-1.0.0.zip",
-    "sha256":  "abb428ff365ec9a3cc1bdb7cfdf26c52b393e162b11454090496068c49353803",
-    "size":  10606466,
-    "releaseNotes":  "片场流 Lite 1.0.0：Beta 当前复用首个 Stable 基线；后续开发预览版会在此通道单独发布。"
+    "version":  "1.0.1",
+    "commitSha":  "27c66236b7987bb25121dc9191147a2a57582e6c",
+    "publishedAt":  "2026-08-20T06:12:02.4851527Z",
+    "packageUrl":  "https://github.com/3137luluon-jpg/cineflow-lite-releases/releases/download/v1.0.1/CineFlow-App-1.0.1.zip",
+    "sha256":  "e348668809096246670f3183da3cfdf0fa7b58b978aa087bc643877ebeb73a93",
+    "size":  10606960,
+    "releaseNotes":  "片场流 Lite 1.0.1：Beta 当前复用最新 Stable 安全基线；后续预览版会在此通道单独发布。"
 }
