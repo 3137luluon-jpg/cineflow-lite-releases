@@ -1,0 +1,11 @@
+{
+    "schemaVersion":  "cineflow.channel.v1",
+    "channel":  "stable",
+    "version":  "1.0.0",
+    "commitSha":  "486540da070e30cb1b3210792155c3c8f1b7540f",
+    "publishedAt":  "2026-08-20T05:49:18.1389130Z",
+    "packageUrl":  "https://github.com/3137luluon-jpg/cineflow-lite-releases/releases/download/v1.0.0/CineFlow-App-1.0.0.zip",
+    "sha256":  "abb428ff365ec9a3cc1bdb7cfdf26c52b393e162b11454090496068c49353803",
+    "size":  10606466,
+    "releaseNotes":  "片场流 Lite 1.0.0：首个带自主更新、哈希校验与自动回滚能力的版本。"
+}
