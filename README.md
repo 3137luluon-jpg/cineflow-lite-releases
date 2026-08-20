@@ -1,2 +1,1 @@
-# cineflow-lite-releases
-片场流 CineFlow Lite 公开安装包、更新清单与版本说明（源码保持私有）
+基本说明：这里只发布片场流 CineFlow Lite 的 Windows 安装包、自动更新清单和版本说明；源码仍在私有仓库。首次使用请在 Releases 下载 CineFlow-Portable-版本号.zip，完整解压后运行 CineFlow.exe。软件默认使用 Stable 稳定通道，可在项目与接口的软件更新中自主检查和安装；安装包会进行 SHA-256 校验，失败时自动回滚。用户项目、设置和媒体文件保存在独立 UserData 目录，正常升级不会覆盖。
