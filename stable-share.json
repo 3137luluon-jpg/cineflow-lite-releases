@@ -1,0 +1,12 @@
+{
+    "schemaVersion":  "cineflow.channel.v1",
+    "channel":  "stable",
+    "edition":  "share",
+    "version":  "1.1.0",
+    "commitSha":  "79ddd416bed55ca74fb5fa404c5747ccebe8159b",
+    "publishedAt":  "2026-09-14T15:19:47.1559489Z",
+    "packageUrl":  "https://github.com/3137luluon-jpg/cineflow-lite-releases/releases/download/v1.1.0/CineFlow-Share-App-1.1.0.zip",
+    "sha256":  "34b19c7a8b251134e0832d41560b40062de38a0c29e9619fa3002fa3ca744c5e",
+    "size":  9922005,
+    "releaseNotes":  "片场流 Lite 1.1.0：安全更新与回滚能力维护版本。"
+}
