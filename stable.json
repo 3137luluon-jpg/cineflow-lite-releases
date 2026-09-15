@@ -2,11 +2,11 @@
     "schemaVersion":  "cineflow.channel.v1",
     "channel":  "stable",
     "edition":  "share",
-    "version":  "1.1.0",
-    "commitSha":  "79ddd416bed55ca74fb5fa404c5747ccebe8159b",
-    "publishedAt":  "2026-09-14T15:19:47.1559489Z",
-    "packageUrl":  "https://github.com/3137luluon-jpg/cineflow-lite-releases/releases/download/v1.1.0/CineFlow-Share-App-1.1.0.zip",
-    "sha256":  "34b19c7a8b251134e0832d41560b40062de38a0c29e9619fa3002fa3ca744c5e",
-    "size":  9922005,
-    "releaseNotes":  "片场流 Lite 1.1.0：安全更新与回滚能力维护版本。"
+    "version":  "1.1.1",
+    "commitSha":  "9522a5ae4d218fd3322e8b546ae7a1e02d15152d",
+    "publishedAt":  "2026-09-15T03:17:32.5786738Z",
+    "packageUrl":  "https://github.com/3137luluon-jpg/cineflow-lite-releases/releases/download/v1.1.1/CineFlow-Share-App-1.1.1.zip",
+    "sha256":  "a9459c92fb5979feb44f43b1217b7eb4abf432471380afad0cb46be845bd18d4",
+    "size":  9927295,
+    "releaseNotes":  "1.1.1：修复视觉资产确认与场景绑定、启动目录误用和首次启动等待；上传图片与多造型、场景、物品以绑定参考图为准，修正 GeekNow 多参考图上传；增加新版可用常驻提示。由用户选择升级。"
 }
